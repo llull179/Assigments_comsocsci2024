@@ -7,4 +7,4 @@ In this repo will be included all the assigments and necessary files for the sub
 
 - Lluís Llull 
 - Muneer Kayali
- 
+- Lanxi Zhang
